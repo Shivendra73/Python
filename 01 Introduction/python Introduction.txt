@@ -1,0 +1,429 @@
+Python:
+-----------------------------------------------------------------------------------------------
+1)why Python?
+2)who can learn Python? 
+3)How Python was Built?
+4)Python Real Time Applications
+5)Python USage
+6)Python Features
+7)Python Comparision with other programming
+8)Python Scope and Jobmarket.
+9)Python Software Foundation(PSF)
+
+
+----------------------------------------------------------------------------------------------------
+why Python?
+
+Python is a
+          -General Purpose
+          -Multi Programming paragigm
+          -High-level
+          -interpreted
+          -user-friendly programming language
+
+Python is a user-friendly programming language which provides simple syntaxes which looks like
+ normal english stmts.
+
+Python was developed by Guido Van Rossum in the year 1989.
+
+----------------------------------------------------------------------------------------------------
+Python was built or derived by taking the features or advantages from various other programming languages 
+such as
+1)Procedural Oriented PRogramming: ex :C-Language---------->Functions
+2)Object Oriented Programming      ex: C++,Java  ----------->Security,Re-usability,flexibility
+3)Scripting Languages              ex: shell script--------->dynamic Datatypes
+4)Modular PRogramming              ex: modula-3  ---------->Modules--------->89300 
+
+-----------------------------------------------------------------------------------------------------
+Dynamic Datatypes:
+
+C/C++/Java                       Python
+
+int x=10                         x=10  based on the value assigned the variables are created dynamically
+    
+float y=4.5                      y=4.5   type(y)----->float 
+   
+string z="hello"                 z="hello" 
+
+-----------------------------------------------------------------------------------------------------
+Modules :
+python provides modules for each and every domain such as
+Datascience ------------->seperate modules        
+MAchine Learning--------->  "          "
+BigData------------------>  "          "
+Testing ----------------->  "          "
+Networking -------------->  "          "
+Animations--------------->  "          "
+OS ---------------------->  "          "
+Oracle------------------->  "          "
+mysql-------------------->  "          "
+excel ------------------->  "          "
+xml --------------------->  "          "
+csv---------------------->  "          "
+pdf --------------------->  "          "
+math--------------------->  "          "
+statistics--------------->  "          "
+Administrative Activities>  "          "
+Graphs------------------->  "          "
+
+------------------------------------------------------------------------------------------------------
+Python Real Time Applications:
+
+Today python is mostly used in developing the following Applications:
+Python Real Time Applications:
+
+1.Web Applications:
+
+2.Automation Applications
+  -Datascience--------->MAchine Learning--->
+  -IOT
+
+3.Bigdata: KB,MB,GB,    TB,PB,EB,ZB,YB,SB
+
+4.Scientific Applications:
+
+5 .GUI/Animations :
+
+6. Game Development: PyGame,Pykara ,PySoy
+
+7.Software Development:
+
+8.Bussiness : Tryton
+
+9. Database
+
+10.N/W Programming :Twisted Python
+
+11. Audio and video Applications
+
+12.CAD Applications
+
+13.Embeded Applications
+
+14.Desktop Applications:
+
+15.WebScraping: 
+
+16.Computer vision 
+
+17.Robotics
+
+18.Data Analysis
+
+-----------------------------------------------------------------------------------------------
+who are using Python Today:
+
+1)Google : USes Python Script in web Search systems.
+
+2)Youtube : Video sharing service is largely written in python.
+
+3)MMOG : MAssively Multi-player Oline Games uses python
+
+4)Maya : A powerfull 3D animation system provides python scripting API
+
+5)iRobot: uses python to develop commercial and military robotic devices.
+
+6)BitTorrent: File sharing system, began its life as a python program.
+
+7)Google's App Engine: webdevelopment framework uses python as an application language.
+
+8)Ironport Email server : USes more tham 1 million lines of python code to do its job.
+
+9)HArdware Testing: Intel,Cisco,HP,Seagate,Qualcomm ,IBM etc uses python for H/W Testing.
+
+10)Financial MArketing.....
+
+11)Yahoo
+
+12)Instagram
+
+13)Quora
+
+14)Reddit
+
+15)Pinterest
+
+16)Dropbox
+
+
+--------------------------------------------------------------------------------------------------
+Python Features:
+
+1)Powerfull standard Library: provides many Builtin Functionalities for performing various operations.
+
+2)Wide varieties of modules :89300 modules
+
+3)Supports interactive mode: USer can easily interact with Python interpreter line by line.
+
+4)Supports dynamic datatypes:
+
+5)supports Object oriented PRogramming:
+
+6)supports all major databases.
+
+7)Extendable
+
+8)Can be easily integrated with other languages
+
+9)simple and easy and looks like normal english stmts.
+
+------------------------------------------------------------------------------------------------------
+Python Comparision with other PRogramming:
+
+ex: accepting 2 no's from the user and performing addition.
+br.
+1)Using Java
+
+import java.io.*;
+class sample
+{
+ public static void main(String args[]) throws IOException
+ {
+  InputStreamReader isr=new InputStreamReader(System.in);
+  BufferedReader br=new BufferedReader(isr);
+  System.out.println("Enter 1st No:");
+  String s1=br.readLine();
+  int i=Integer.parseInt(s1);
+  System.out.println("Enter 2nd No:");
+  String s2=br.readLine();
+  int j=Integer.parseInt(s2);
+  System.out.println(i+j);
+ }
+ }
+---------------------------------------------------------------------------------------------------
+2)Using Python:
+  x=int(input("Enter value of x:"))
+  y=int(input("Enter value of y:"))
+  print(x+y)
+
+---------------------------------------------------------------------------------------------------
+Python Software Foundation(PSF):
+
+PSF is a non-profit organization devoted to python programming language.
+
+-It was launched on March 6th,2001.
+
+-Mission : to faster the development of python community.
+
+-in 2005, PSF recieved "COmputerworld Horizon Award" for cutting-edge Technology
+
+President and Founder : Guido Van Rossum
+
+Headquarters: Delaware,Unitedstates
+
+Official website: www.python.org/psf
+
+
+------------------------------------------------------------------------------------------------
+Python versions:
+
+python 1.xxx ------------>1989
+python 2.xxx ------------>2000
+python 3.xxx ------------>2008
+
+Latest version of python------------->python 3.10
+Stable version of python------------->python 3.7
+(mostly used version)
+Previous stable version is----------->Python 2.7
+
+-------------------------------------------------------------------------------------------------
+Python Installation:
+
+Google-------->python download------------->download----->all releases----->select python 3.7.4
+
+click 64 bit executable installer---->download starts
+
+dblclick the downloaded file---------->select add python to path
+
+go for customize installation------->next----->select location to install as C:\python39
+
+--- install
+
+check whether python is installed correctly or not:
+
+goto cmdprompt----------->type python------->it should display python version and interpreter.
+
+
+
+----------------------------------------------------------------------------------------------
+Python IDES's
+1)Pycharm---------->mostly used
+2)Pydev
+3)Komodo
+4)Spyder
+5)Eclipse
+6)NEtbeans
+7)Jupyter Notebook
+8)VSCode
+9)Atom
+-----------------------------------------------------------------------------------------------
+Python Execution Modes: 2 modes of Execution
+1)Interactive mode
+2)Batch mode
+
+Interactive mode: Here we directly type our python stmts on interpreter and can
+                  easily communicate line by line.
+
+      Advantage: For learning Python and to test the functionalities of python
+
+
+Batch mode: Here we write set or batch of stmts within Editors/IDE's and save it by using
+            .py extension and later submit to python interpreter.
+
+various Editors
+1)Notepad
+2)Editplus
+3)vi 
+4)nano
+5)gedit
+
+Various IDE's (Integrated Development Environment)
+1)Pycharm---------->mostly used
+2)Pydev
+3)Komodo
+4)Spyder
+5)Eclipse
+6)Netbeans
+7)Jupyter Notebook
+8)VSCode
+9)Atom
+-----------------------------------------------------------------------------------------------
+Developing Python Applications using Editors
+ex:Notepad
+
+open notepad and type the following python stmts.
+x=10
+y=20
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+
+save it using sample1.py extension and later submit to python interpreter.
+
+submitting the file to interpreter------->
+
+goto cmdprompt---->python C:\pythonweekend\sample1.py
+It gives the ouput
+
+here we are writing the code at one place and executing it at other place instead we can write
+and execute at a single place, for that whenever we install python, along with python
+we can IDLE(Integrated Development Environment)----->where we can work with interactive mode as well as
+batch mode.
+
+------------------------------------------------------------------------------------------------------
+
+Datatypes: 2 Types
+1.Fundamental Datatypes----------->Object holding a single value
+  5Types
+  1.int ----->age=25
+  2.float --->sal=90870.40
+  3.boolean-->True/False
+  4.string -->city="Hyderabad"
+  5.complex-->x+jy
+
+----------------------------------------------------------------------------
+2.Collection Datatypes ----------->Object holding group of values
+
+4Types
+1.List  ------->[ ]  ex: x=[10,20,30,40]
+2.Tuple ------->( )      y=(10,20,30,40)
+3.Set   ------->{ }      z={10,20,30,40}
+4.Dictionary -->{k:v}    p={"Name":"Ajay" ,"Age":25}
+                              k       v
+
+----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
