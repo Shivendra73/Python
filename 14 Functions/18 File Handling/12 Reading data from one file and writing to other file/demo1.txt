@@ -1,0 +1,30 @@
+Python features:
+
+    1. powerfull Standard Library:   Introduced many builtin functionalities.
+    
+    2. Wide variety of modules   :   python supports nearly 89,300 modules
+       Seperate module for Networking
+       Seperate module for Testing
+       Seperate module for Data Analytics
+       Seperate module for GUI/Animations
+       Seperate module for OS etc....so on...
+
+    3.  portable: can run on any h/w platforms.
+
+    4. Interpreted : Python is not compiled,it is interpretation language like PERL and PHP
+
+    5. Object-Oriented :Supports OOPs features
+
+    6. Extendable : Adding various types of modules.
+
+    7. Database Support: Provides interface to all major databases.
+
+    8. simple : Easy to develop applications in Python
+
+    9.GUI Programming: supports GUI applications
+
+    10. Interactive mode : supports interactive mode for testing and debugging
+
+    11. Supports dynamic datatypes.
+
+    12.can be easily integrated with other languages like C,C++,java,CORBA etc..
